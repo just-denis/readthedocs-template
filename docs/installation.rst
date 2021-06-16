@@ -2,6 +2,6 @@
 Installation
 ============
 
-Install the Package with pip::
+Install this Package with pip::
 
     $ pip install read-the-docs-template
